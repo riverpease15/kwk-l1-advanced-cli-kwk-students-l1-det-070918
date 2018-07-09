@@ -1,3 +1,4 @@
+ls;
 mv
 delivery/apples.txt fruit/apples.txt
 mv
