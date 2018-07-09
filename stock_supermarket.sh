@@ -13,5 +13,22 @@ mv delivery/garlic.txt veggies/garlic.txt;
 mv delivery/goldfish.txt snax/goldfish.txt;
 mv delivery/grapples.txt fruit/grapples.txt;
 mv delivery/hotdogs.txt meat/hotdogs.txt;
-mv delivery/
-mv delivery/
+mv delivery/icecream.txt freezer/icecream.txt;
+mv delivery/lamb_ribs.txt meat/lamb_ribs.txt;
+mv delivery/land_o_lakes_butter.txt dairy/land_o_lakes_butter.txt;
+mv delivery/lean_cuisine.txt meat/lean_cuisine.txt;
+mv delivery/leeks.txt veggies/leeks.txt;
+mv delivery/milk.txt dairy/milk.txt;
+mv delivery/mint_milano_cookies.txt dessert/mint_milano_cookies.txt
+mv delivery/onion.txt veggies/onion.txt;
+mv delivery/oreos.txt dessert/oreos.txt;
+mv delivery/potatoes.txt veggies/potatoes.txt;
+mv delivery/salmon_steak.txt meat/salmon_steak.txt;
+mv delivery/tiramisu_cake.txt dessert/tiramisu_cake.txt;
+mv delivery/tomatoes.txt fruit/tomatoes.txt;
+mv delivery/trail_mix.txt snax/trail_mix.txt;
+mv delivery/turkey_breast.txt meat/turkey_breast.txt
+mv delivery/velveeta_cheese.txt dairy/velveeta_cheese.txt;
+mv delivery/watermelon.txt fruit/watermelon.txt;
+mv delivery/whole_chicken.txt meat/whole_chicken.txt;
+mv delivery/wonder_bread.txt
